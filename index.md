@@ -1,5 +1,5 @@
 ---
-title: Folio
+title: "Folio"
 author: Tim Eulenberg
 ---
 
@@ -23,5 +23,5 @@ My name is Tim Eulenberg.
 ⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿
 ```
-[Career Profile](career.md)
-[Skillset](skills.md)
+
+[Career Profile](career.md) | [Skillset](skills.md)
