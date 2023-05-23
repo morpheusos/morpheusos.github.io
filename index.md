@@ -28,8 +28,6 @@ My name is Tim Eulenberg.
 [Career Profile](career.md) | [Skillset](skills.md)
 
 <div class="container">
-
-  <h1>Pure Css Button Hover effect</h1>
   
   <a href="#" class="button">Hover me</a>
 
@@ -38,8 +36,6 @@ My name is Tim Eulenberg.
       color:red;
   }
   </style>
-
-  <mark>what is DataBase</mark>
 
   <!-- HTML !-->
   <button class="button-17" role="button">Button 17</button>
