@@ -8,6 +8,7 @@ author: Tim Eulenberg
 
 My name is Tim Eulenberg. 
 
+This page is still under construction.
 ```
 ⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
@@ -25,20 +26,10 @@ My name is Tim Eulenberg.
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿
 ```
 
-[Career Profile](career.md) | [Skillset](skills.md)
-
 <div class="container">
-  
-  <a href="#" class="button">Hover me</a>
-
-  <style>
-  mark{
-      color:red;
-  }
-  </style>
 
   <!-- HTML !-->
-  <button class="button-17" role="button">Button 17</button>
+  <button onclick="/career.md" class="button-17" role="button">Career</button>
 
   <style>
   .button-17 {
