@@ -14,7 +14,6 @@ To create a static HTML/CSS element that looks like a markdown code cell where t
 
 Here's an example HTML code for a markdown code cell:
 
-```html
 <div class="code-cell">
   <div class="input">
     <span class="prompt">In [1]:</span>
@@ -24,7 +23,6 @@ Here's an example HTML code for a markdown code cell:
     <span class="result">Hello, World!</span>
   </div>
 </div>
-```
 
 And here's an example CSS code that will make the code appear word by word:
 
@@ -38,6 +36,7 @@ And here's an example CSS code that will make the code appear word by word:
   </div>
 </div>
 
+<style>
 .code-cell {
   border: 1px solid #ccc;
   background-color: #f8f8f8;
@@ -101,7 +100,7 @@ And here's an example CSS code that will make the code appear word by word:
   background-color: inherit;
   animation: typing 2s steps(20) forwards;
 }
-```
+<\style>
 
 The CSS code uses the `typing` animation to simulate the appearance of text being typed out. The animation is applied to the `::before` pseudoelement of both the `code` and `result` spans, which are the
 
