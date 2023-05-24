@@ -29,7 +29,7 @@ This page is still under construction.
 <div class="container">
 
   <!-- HTML !-->
-  <button onclick="/career.md" class="button-17" role="button">Career</button>
+  <button onclick="https://morpheusos.github.io/career" class="button-17" role="button">Career</button>
 
   <style>
   .button-17 {
