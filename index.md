@@ -27,4 +27,5 @@ This page is still under construction.
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿
 ```
 
-| [Check out my blog](./blog.md) | [My career](career.md) |
+[//]: <> | [Check out my blog](./blog.md) | [My career](career.md)|
+
